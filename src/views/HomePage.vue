@@ -125,7 +125,7 @@
     </div>
 </div>
 </div>
-<div class=" flex flex-wrap w-full     gap-2 items-center ">
+<div class=" flex flex-wrap w-full dark:bg-[#1d2024]         gap-2 items-center ">
    
 <div class="w-full mx-auto basis-1/2 max-w-md p-4 bg-white border border-gray-200 rounded-lg shadow sm:p-8 dark:bg-gray-800 dark:border-gray-700">
     <div class="flex items-center justify-between mb-4">

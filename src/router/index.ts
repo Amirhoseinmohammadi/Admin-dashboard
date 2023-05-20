@@ -14,7 +14,7 @@ export default createRouter({
     },
     {
       path: '/contact',
-      component: () => import('../views/ContactPage.vue'),
+      component: () => import('../views/SiginPage.vue'),
     },
     {
         path: '/users',
